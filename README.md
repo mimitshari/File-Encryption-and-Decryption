@@ -1,16 +1,16 @@
 🔐 File Encryption & Decryption Tool
 
-A Python-based tool for secure file encryption and decryption with the flexibility to choose from multiple algorithms:
 
-Fernet
+This project was developed as part of the Forensic Computing – Cyber Security course. It empowers users to safeguard sensitive data while choosing the algorithm that best suits their needs for security, performance, and compatibility, it allows the users to choose from multiple algorithms:
 
-AES (Advanced Encryption Standard)
+- Fernet
 
-3DES (Triple Data Encryption Standard)
+- AES (Advanced Encryption Standard)
 
-ChaCha20
+- 3DES (Triple Data Encryption Standard)
 
-This project was developed as part of the Forensic Computing (FC313 – Cyber Security) course. It empowers users to safeguard sensitive data while choosing the algorithm that best suits their needs for security, performance, and compatibility.
+- ChaCha20
+
 
 📖 Features
 
