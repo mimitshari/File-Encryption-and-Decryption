@@ -26,7 +26,7 @@ This project was developed as part of the Forensic Computing – Cyber Security 
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/file-encryption-tool.git
+git clone https://github.com/mimitshari/encryption-tool.git
 cd file-encryption-tool
 
 2. Install Dependencies
